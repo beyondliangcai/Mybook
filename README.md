@@ -1,3 +1,10 @@
-# My Awesome Book
+# Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这本书主要有3个目的：
+
+1.各个business 端从1.2.3 升级到1.2.5的指导说明
+
+2. 1.2.5 网关新特性说明
+
+3. 1.2.5 网关路由算法介绍
+
